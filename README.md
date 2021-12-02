@@ -5,7 +5,7 @@
 ## Project segment
 Lista de Tarefas 
 
-<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/automobile_1f697.png" srcset="https://emojipedia-us.s3.amazonaws.com/source/skype/289/automobile_1f697.png 2x" alt="Automobile on Skype Emoticons 1.2" width="160" height="160">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/softbank/145/memo_1f4dd.png" width="160" height="160">
 
 ## Tecnologias
 Aqui estão as tecnologias utilizadas neste projeto.
@@ -16,8 +16,8 @@ Aqui estão as tecnologias utilizadas neste projeto.
 * Api em Express e Typescript
 
 
-## 1 - Home do Site
-![Homepage image](https://github.com/vitorllimaa/Projeto-CRUD-Carro-JS/blob/master/assets/img/img_github/PRINT%20CAR.png?raw=true)
+## Demonstração do site
+![Homepage image](https://github.com/vitorllimaa/Projeto-CRUD-React/blob/master/public/git_project.gif?raw=true)
 
 ## Links
 Repositório: https://github.com/vitorllimaa/Projeto-CRUD-React
